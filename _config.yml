@@ -1,0 +1,14 @@
+layout_spectrum: 0.3255661614239216
+typography_spectrum: 0.04707661084830761
+color:
+  brandStrength: 0.822326845722273
+  lightness: 0.5626328957732767
+  saturation: 0.30216884426772594
+  rhythmicContrast: 0.0011646251659840345
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: EastWestTogs
