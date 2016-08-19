@@ -11,6 +11,9 @@ color:
     - '#E2F0D6'
     - '#F6FFE0'
 layout_spectrum: 0.3255661614239216
+author:
+  name: Lars Millberg
+  email: lars.millberg@gmail.com
 name: EastWestTogs
 title: To shoot is to see
 description: We deliver
