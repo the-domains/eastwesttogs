@@ -1,21 +1,33 @@
-typography_spectrum: 0.04707661084830761
-color:
-  brandStrength: 0.822326845722273
-  lightness: 0.5626328957732767
-  saturation: 0.30216884426772594
-  rhythmicContrast: 0.0011646251659840345
-  brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
-layout_spectrum: 0.3255661614239216
 author:
   name: Lars Millberg
   email: lars.millberg@gmail.com
-name: EastWestTogs
 title: Pictures and Workshops
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 description: >-
   Experience 3 days of focussed learning and take your photography to a new
   level
+color:
+  saturation: 0.3021688442677259
+  brandStrength: 0.822326845722273
+  lightness: 0.5626328957732767
+  brandColors:
+    - '#FFF1D7'
+    - '#000000'
+    - '#CABCCA'
+    - '#005685'
+    - '#634F5A'
+  rhythmicContrast: 0.001164625165984035
+typography_spectrum: 0.04707661084830761
+layout_spectrum: 0.7975295
+name: EastWestTogs
